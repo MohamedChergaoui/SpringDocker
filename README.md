@@ -17,11 +17,12 @@ Ouvrez un terminal et accédez au répertoire contenant votre projet Spring Boot
 
 Exécutez la commande suivante pour construire l'image Docker :
 */ docker build -t Lab_exprt .
-  -cmd2 : pou cree un contenaire Postgres.
+
+ cmd2 : pou cree un contenaire Postgres.
   docker run --name postgres-bases -e POSTGRES_PASSWORD=yasso -p 8000:5432 -d postgres
-  -cmd3 : image pour le project docker 
+cmd3 : image pour le project docker 
   docker build -t myapp
-  -cmd4: create network
+cmd4: create network
   docker network create new-network-labnetwork
 cmd5: créer et exécuter un nouveau conteneur Docker basé
 docker run --name create new-network-labnetwork

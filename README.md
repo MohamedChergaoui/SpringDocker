@@ -7,6 +7,9 @@ Ouvrez un éditeur de texte et créez un nouveau fichier nommé Dockerfile à la
 
 Utilisez des instructions Dockerfile telles que FROM, COPY, RUN, EXPOSE, et CMD pour définir les étapes de construction de l'image Docker. Exemple :
 <img width="736" alt="Capture d’écran 2024-02-20 à 15 46 11" src="https://github.com/MohamedChergaoui/SpringDocker/assets/61020088/05353867-d0a8-4800-93fe-59094a4f4215">
+
+
+
 #Ajoutez une section dans votre Dockerfile pour inclure PostgreSQL. Utilisez une image officielle de PostgreSQL depuis Docker Hub.
 
 Construction de l'Image Docker

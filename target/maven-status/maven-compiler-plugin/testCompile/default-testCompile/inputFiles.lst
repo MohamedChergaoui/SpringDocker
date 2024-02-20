@@ -1,0 +1,12 @@
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Service/Impl/MaterialServiceImplTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Service/Impl/PatientServiceImplTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Service/Impl/UserServiceImplTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Repository/IMaterialRepositoryTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Controller/UserControllerTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Service/Impl/IFournisseurServiceTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Repository/IFournisseurRepositoryTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/LabxpertApplicationTests.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Controller/PatientControllerTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Repository/IPatientRepositoryTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Repository/IUserRepositoryTest.java
+/Users/admin/IdeaProjects/Lab-xpert-spring-boot-part2-V2/src/test/java/com/example/labxpert/Controller/FournisseurControllerTest.java
